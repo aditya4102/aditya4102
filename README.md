@@ -7,7 +7,7 @@
 - 🛠  I’m currently deep diving more into <ins>Web Developement</ins> and it's <ins>Back end technologies</ins>.
 - ✍️ I love guiding people and juniors and give seminars, to help them to learn from my past experience.
 - 💻 On most evenings, I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/aditya_tiw)** and **[CodeForces](https://codeforces.com/profile/adi_4)**.
-- 😄 Fun fact: I love meeting in person, so find me on **[Linkedin](https://www.linkedin.com/in/tiwari-aditya/)** 😉<br>
+- 😄 Fun fact: When I am not coding, I binge watch movies and series, so open for discussion and new suggestion. 😉<br>
 
 ## 📈 Some Stats
 
