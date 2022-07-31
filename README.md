@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! I am Aditya Tiwari, a Software Engineer 👋
 
+### I am self taught programmer and incredibly passionate about competitive programming and problem solving. I love brain storming into those problems that requires logic to solve them, also a curious learner about new technologies.
 <!--
 **aditya4102/aditya4102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
