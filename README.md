@@ -1,6 +1,14 @@
 ### Hi there! I am Aditya Tiwari, a Software Engineer 👋
 
-### I am self taught programmer and incredibly passionate about competitive programming and problem solving. I love brain storming into those problems that requires logic to solve them, also a curious learner about new technologies.
+#### I am self taught programmer and incredibly passionate about competitive programming and problem solving. I love brain storming into those problems that requires logic to solve them, also a curious learner about new technologies.
+
+#### Here's a List of things I am currently keeping myself busy with:
+- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
+- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
+- ✍️ Writing tech blog posts over my **[Blog Page](http://2012atulsharma.medium.com/)** to help more developers learn from my experience.
+- 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
+- ⚡ To know more headout to my **[Portfolio](http://iltwats.github.io/)**.
+- 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 <!--
 **aditya4102/aditya4102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
